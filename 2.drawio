@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T08:56:37.858Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="wY2uNGxQYQpwmzCBq7G_" version="14.8.0" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vptd6I4FP41OfNp5yAgLx/BYjuz7uzstrs98zFKRMZI3BBqnV+/NxAUhCp2q5269Xg8yeWShDzPc+81iozB4vGa4+XsNxYSinQtfETGFdL1nqnrSL61cF1YbMMqDBGPQ+W0NdzGP4gyasqaxSFJa46CMSriZd04YUlCJqJmw5yzVd1tymh91iWOSMNwO8G0ab2PQzErrI5ub+03JI5m5cw9yy2uLHDprJ4kneGQrSomI0DGgDMmitbicUCo3LxyX+4/re/paG5df/4j/Qf/5f969+XvX4rBhsfcsnkEThLxskMrcB8wzdR+qWcV63IDOcuSkMhBNGT4M7Gg0OxB8zsRYq0Ax5lgYGJczFjEEkxHjC2V35QlQrn1ZJ8koSeBhf6Yssm8MA1jStUc0FP+DvRSwdl8g50cYAOEdKZ4TKiPJ/MoX+iAUcbhUsISIocKgQzqWbaLC7ZWv+PeKgxSlvEJ2eNnKIpjHpF94ykRyfVVeKqQuyZsQQRfgwMnFIv4oU5mrDQRbfy2uENDQX8EDYwGDUZ4sZSqZyRNPghorRif7+GGxGU1iwW5XeJ8g1YQTup8qfIAHtWPKE5TheIBkI8D6YFwQR73bqu62lfSLmOb6q62gaJXqn9WCRKmdiIczAYO3yB2vivyvyjS6qjIMmEdlKQiS0mMzgpVI31lcSIqLmw6TWFhu9TZTPh8NvUbbPrCGmQ6jMebptsrkck+jku9n55L1hMZwqKwDf6YQyuSrSXNogjIAsMlyBg2Y9eMLcZZejhb1DCWDBriRUzlft0Q+kBEPMEtOQXTOIJ5ryYAN+Ht5IEp4ySCnrXt3eVkhfh7ulxj1XNNz2pJNlpLsnFOlWzsBqRfAbwCOV2jObwXlu83QitBcF474ztdYvSbjsBnT/glxoczfq9jlFbs0T4a8KoR6OcvAtxOJeV7FXAahumXVgeUK6zwyc/ouFkIjDOe5HUAy8R7IbCnENDbctBZC4EyDlYw/ZMscQxYaqNLLAN2vvab+mtXAWWcqCNA5ZbqWqGvC4NgtxIztDNi8PvAuEn7zmjihpRNvbvY5X6Xo9Bjs2RrHmzJl09AZW/2fyd/PC+VtT51SyZr9TvX8eS+RVahCfrIHyAIidDwbOT4KHCQbyN3mDcc5Hkvpxn7OZppaKErak9qxtzRzDm/vLTi0jwU+D9IpvwV65Bk+q8pmWZKl7rwAuT1UGDLhmujwEKekYvIQn4/F5GNfB+5hrS44DNAgSnV5ATyEnz6uTPYHTcX2hXynLwxRL4rfVxf+su7BvINzjC+ZzeIcUB+da02asAq3k01VrV6MjFqO0cJ/RY1mi1qtE6lxuZxrwyODqBeAGPmUIFlII0SThe5bs1nQwvfQG5f4ermsRV4AzcWt0ukXeRA++rycN0JslCZdIuyJ8O1pThUGoQc1wRECdbLMfeQY7bo9EUz46mQMCy9XiK2KMyxzglE82fSI4HoEG/fBDSm4xyExn0ZjUB3+xeL4hRj+0cVI/gX</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-23T08:56:54.234Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="AOhYqqUyakA3OXw8muq0" version="14.8.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="160" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="280" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC3Hs58Lc9dlofATi9rB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OC3Hs58Lc9dlofATi9rB-0" target="OC3Hs58Lc9dlofATi9rB-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC3Hs58Lc9dlofATi9rB-0" value="开始跟踪" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="410" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OC3Hs58Lc9dlofATi9rB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OC3Hs58Lc9dlofATi9rB-1" target="OC3Hs58Lc9dlofATi9rB-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OC3Hs58Lc9dlofATi9rB-1" value="计算检测结果与现有轨迹相似性" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=17;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC3Hs58Lc9dlofATi9rB-5" value="利用匈牙利算法进行匹配" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=17;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC3Hs58Lc9dlofATi9rB-12" value="未匹配上的轨迹" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="362" y="350" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OC3Hs58Lc9dlofATi9rB-13" value="未匹配上的检测结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="488" y="350" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
